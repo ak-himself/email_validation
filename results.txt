@@ -1,0 +1,5 @@
+example@gmail.com: Valid
+invalid-email@: Invalid: There must be something after the @-sign.
+valid.email@domain.com: Valid
+wrong_email@@example.com: Invalid: The part after the @-sign contains invalid characters: '@'.
+another+valid@example.co.uk: Valid
